@@ -9,7 +9,7 @@ I have created this fork because the official `supergateway:uvx` image does not 
 1. Clone the repository:
 
 ```bash
-git clone -b debian-base https://github.com/alexeygumirov/supergateway-docker-debian.git
+git clone https://github.com/alexeygumirov/supergateway-docker-debian.git
 ```
 
 2. Build base Docker image locally:
