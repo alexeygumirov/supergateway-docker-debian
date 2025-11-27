@@ -1,3 +1,13 @@
+# 👋 THIS REPOSITORY HAS MOVED! 👋
+
+**This repository is no longer actively maintained on GitHub.**
+
+Please update your bookmarks and remotes to the new home on Codeberg:
+
+➡️ **[https://codeberg.org/alexeygumirov/supergateway-docker-debian](https://codeberg.org/alexeygumirov/supergateway-docker-debian)** ⬅️
+
+Thank you for your understanding!
+
 # Dockerfile for Supergateway using Debian Bookworm Slim
 
 This project is for creation of the Docker images for [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) using Debian Bookworm Slim as the base image.
